@@ -12,6 +12,8 @@
         "test"
     ],
     "noDirectLaunch": [],
-    "configs": {},
+    "configs": {
+        "co.acme.password": {}
+    },
     "name": "test-agama-project"
 }
