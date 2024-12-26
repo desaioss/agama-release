@@ -18,6 +18,12 @@
                 "MAX_LOGIN_ATTEMPT": "3",
                 "ENABLE_LOCK": "true"
             }
+        },
+        "": {
+            "co.myorg": {
+                "MAX_LOGIN_ATTEMPT": "3",
+                "ENABLE_LOCK": "true"
+            }
         }
     },
     "name": "test-agama-project"
